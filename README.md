@@ -7,3 +7,6 @@ A Python Tkinter Ultimate Tic Tac Toe game.
 - Minimax
 - Highlight system
 - Score by lines
+## Requirements
+- Python 3.x
+- tkinter (built-in)
